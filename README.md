@@ -1,5 +1,4 @@
-<h1 align="center">Jagel</h1>
-<h3 align="center">Software Engineer</h3>
+<h3 align="center">Jagel</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jagel&label=Profile%20views&color=0e75b6&style=flat" alt="jagel" /> </p>
 
